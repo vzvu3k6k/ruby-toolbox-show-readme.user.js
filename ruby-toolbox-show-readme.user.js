@@ -1,4 +1,4 @@
-// ==userscript==
+// ==UserScript==
 // @name           Ruby Toolbox: read README on site
 // @description    Opens readme in Github repository
 // @version        1.0
